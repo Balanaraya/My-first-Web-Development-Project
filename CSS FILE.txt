@@ -1,0 +1,299 @@
+.COLOR {
+    color: white;
+    font-family: Roboto;
+}
+
+.munch-logo {
+    height: 120px;
+    width: 90px;
+}
+
+.button {
+    height: 50px;
+    width: 120px;
+    background-color: green;
+    background-size: cover;
+    color: white;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.link {
+    color: Green;
+    font-size: 45px;
+    font-family: italic;
+
+}
+
+.link1 {
+    color: Green;
+    font-size: 45px;
+    font-family: italic;
+    text-decoration: underline;
+}
+
+.card {
+    height: 50vh;
+    width: 45vw;
+}
+
+.para {
+    font-size: 20px;
+    color: black;
+}
+
+.btn1 {
+    height: 50px;
+    width: 100px;
+    background-color: Green;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn2 {
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.image {
+    height: 50vh;
+    width: 40vw;
+}
+
+.hd {
+    text-decoration: underline;
+    color: blue;
+}
+
+.hd1 {
+    color: green;
+}
+
+.crd1 {
+    background-color: violet;
+    background-size: cover;
+    height: 40px;
+    width: 95vw;
+}
+
+.CFA {
+    color: white;
+    font-size: 20px;
+}
+
+.card2 {
+    height: 25vh;
+    width: 40vw;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.sth {
+    color: grey;
+    font-size: 20px;
+
+}
+
+.bt {
+    background-color: green;
+    height: 10px;
+    width: 20vw;
+    border-radius: 10px;
+}
+
+.lg-bt {
+    background-color: blue;
+    height: 50px;
+    color: white;
+    width: 30vw;
+    border-radius: 10px;
+}
+
+.Exp {
+    color: grey;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.leaf {
+    background-color: green;
+    height: 40vh;
+    width: 30vw;
+    border-top-right-radius: 180px;
+    border-bottom-right-radius: 180px;
+}
+
+.lfim {
+    height: 30vh;
+    width: 40vw;
+}
+
+.car9 {
+    height: 60vh;
+    width: 80vw;
+}
+
+.card9 {
+    height: 20vh;
+    width: 30vw;
+    background-color: green;
+}
+
+.unordered-square-list {
+    list-style-type: square;
+    font-size: 40px;
+}
+
+.grey {
+    color: black;
+}
+
+.licolor {
+    color: white;
+    font-size: 30px;
+}
+
+.wi {
+    height: 30px;
+    width: 30vw;
+    font-size: 15px;
+}
+
+.he {
+    height: 60vh;
+    width: 100vw;
+    background-color: pink;
+}
+
+.card0 {
+    height: 50vh;
+    width: 50vw;
+    background-color: white;
+}
+
+.card9 {
+    height: 50vh;
+    width: 50vw;
+    background-color: green;
+}
+
+.cd {
+    height: 50vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.mg {
+    height: 45vh;
+    width: 80vw;
+}
+
+.cm {
+    height: 50vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.center {
+
+    height: 40vh;
+    width: 55vw;
+    background-color: white;
+}
+
+.sm {
+    color: green;
+
+}
+
+.th {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.oh {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: black;
+}
+
+.p {
+    color: green;
+    font-size: 40px;
+}
+
+.cad {
+    height: 20vh;
+    width: 20vw;
+    background-color: white;
+}
+
+.cl {
+    text-align: center;
+    height: 70px;
+    color: white;
+    width: 80px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.cl1 {
+    text-align: center;
+    height: 70px;
+    color: red;
+    width: 80px;
+    border-radius: 10px;
+    background-color: pink;
+}
+
+.cl2 {
+    text-align: center;
+    height: 70px;
+    color: blue;
+    width: 80px;
+    border-radius: 10px;
+    background-color: brown;
+}
+
+.cl3 {
+    text-align: center;
+    height: 70px;
+    color: purple;
+    width: 80px;
+    border-radius: 10px;
+    background-color: grey;
+}
+
+.cl4 {
+    text-align: center;
+    height: 70px;
+    color: red;
+    width: 80px;
+    border-radius: 10px;
+    background-color: purple;
+}
+
+.cl5 {
+    text-align: center;
+    height: 70px;
+    color: grey;
+    width: 80px;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.hs {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.LD {
+    height: 10vh;
+    width: 20vw;
+}

@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-info">
+
+        <a class="navbar-brand" href="#">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav ml-auto">
+                <a class="nav-link active" href="#">
+                    H0ME <span class="sr-only">(current)</span>
+                </a>
+                <a class="nav-link COLOR" href="#">STOCK MARKET COURSES</a>
+                <a class="nav-link COLOR" href="#">ANALYSIS TOOLS</a>
+                <a class="nav-link COLOR" href="#">TRADING TOOLS</a>
+                <a class="nav-link COLOR" href="#">KNOWLEDGE BASE</a>
+                <a class="nav-link COLOR" href="#">JOB ORIENTED COURSES(PRARAMBH)</a>
+            </div>
+        </div>
+    </nav>
+    <div class=" p-4 mt-2">
+        <a class="navbar-brand" href="#">
+            <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-munch-img.png" class="munch-logo" />
+        </a>
+        <a class="shadow mr-5">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-clockwise" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z" />
+                <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z" />
+            </svg>
+            Search for the Investiment and annalysis</a>
+        <buttom class="button mr-2 p-2">Login/Signup</buttom>
+
+
+    </div>
+    <div class="d-flex flex-row">
+        <div class="card">
+            <h1>
+                Up Your <spam class="link">Financial Skills </spam> To <spam class="link">Advance</spam>Your <spam class="link">Career</spam>Path</h1>
+            <p class="para">learn stock Market For The important role in our society.
+                to got a hand some Experience.</p>
+            <div class="d-flex flex-row">
+                <button class="btn1  ml-5 ">Get Start</button>
+                <button class="btn2 ml-5">Free Trial</button>
+            </div>
+            <div class="d-flex flex-row">
+                <a href="" class="menu-item-link p-5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-amd" viewBox="0 0 16 16">
+                        <path d="m.334 0 4.358 4.359h7.15v7.15l4.358 4.358V0H.334ZM.2 9.72l4.487-4.488v6.281h6.28L6.48 16H.2V9.72Z" />
+                    </svg>
+                    View All
+                </a>
+                <a href="" class="menu-item-link p-5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-badge-3d-fill" viewBox="0 0 16 16">
+                        <path d="M10.157 5.968h-.844v4.06h.844c1.116 0 1.621-.667 1.621-2.02 0-1.354-.51-2.04-1.621-2.04z" />
+                        <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm5.184 4.368c.646 0 1.055.378 1.06.9.008.537-.427.919-1.086.919-.598-.004-1.037-.325-1.068-.756H3c.03.914.791 1.688 2.153 1.688 1.24 0 2.285-.66 2.272-1.798-.013-.953-.747-1.38-1.292-1.432v-.062c.44-.07 1.125-.527 1.108-1.375-.013-.906-.8-1.57-2.053-1.565-1.31.005-2.043.734-2.074 1.67h1.103c.022-.391.383-.751.936-.751.532 0 .928.33.928.813.004.479-.383.835-.928.835h-.632v.914h.663zM8.126 11h2.189C12.125 11 13 9.893 13 7.985c0-1.894-.861-2.984-2.685-2.984H8.126V11z" />
+                    </svg>
+                    career to think
+                </a>
+                <a href="" class="menu-item-link p-5">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-apple" viewBox="0 0 16 16">
+                        <path d="M11.182.008C11.148-.03 9.923.023 8.857 1.18c-1.066 1.156-.902 2.482-.878 2.516.024.034 1.52.087 2.475-1.258.955-1.345.762-2.391.728-2.43Zm3.314 11.733c-.048-.096-2.325-1.234-2.113-3.422.212-2.189 1.675-2.789 1.698-2.854.023-.065-.597-.79-1.254-1.157a3.692 3.692 0 0 0-1.563-.434c-.108-.003-.483-.095-1.254.116-.508.139-1.653.589-1.968.607-.316.018-1.256-.522-2.267-.665-.647-.125-1.333.131-1.824.328-.49.196-1.422.754-2.074 2.237-.652 1.482-.311 3.83-.067 4.56.244.729.625 1.924 1.273 2.796.576.984 1.34 1.667 1.659 1.899.319.232 1.219.386 1.843.067.502-.308 1.408-.485 1.766-.472.357.013 1.061.154 1.782.539.571.197 1.111.115 1.652-.105.541-.221 1.324-1.059 2.238-2.758.347-.79.505-1.217.473-1.282Z" />
+                        <path d="M11.182.008C11.148-.03 9.923.023 8.857 1.18c-1.066 1.156-.902 2.482-.878 2.516.024.034 1.52.087 2.475-1.258.955-1.345.762-2.391.728-2.43Zm3.314 11.733c-.048-.096-2.325-1.234-2.113-3.422.212-2.189 1.675-2.789 1.698-2.854.023-.065-.597-.79-1.254-1.157a3.692 3.692 0 0 0-1.563-.434c-.108-.003-.483-.095-1.254.116-.508.139-1.653.589-1.968.607-.316.018-1.256-.522-2.267-.665-.647-.125-1.333.131-1.824.328-.49.196-1.422.754-2.074 2.237-.652 1.482-.311 3.83-.067 4.56.244.729.625 1.924 1.273 2.796.576.984 1.34 1.667 1.659 1.899.319.232 1.219.386 1.843.067.502-.308 1.408-.485 1.766-.472.357.013 1.061.154 1.782.539.571.197 1.111.115 1.652-.105.541-.221 1.324-1.059 2.238-2.758.347-.79.505-1.217.473-1.282Z" />
+                    </svg>
+                    iphone 12 pro
+                </a>
+            </div>
+        </div>
+        <div class=" ml-5">
+            <img src="data:image/jpeg;base64,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" class="image" />
+        </div>
+
+
+    </div>
+
+
+
+    <div class="d-flex flex-row mt-5">
+        <div class=" ml-5 ">
+            <img src="https://www.radnet.com/new-jersey-imaging-network/sites/njin/files/radnet/imce/2022-deductible-reset/2022-Deductible-Reset_landing_940x287.jpg" class="image" />
+        </div>
+        <div class="card ml-5">
+
+            <h1>
+                <spam class="hd">Welcome to Trading </spam>& <spam class="hd1">Financial</spam>
+            </h1>
+            <p>Take control your Financial Features withh and complehensive Financial Learning app.
+                Fromtake control of our FINNCIAL fEATURES learning all from stock investiment andmutual funds and dHUEzYajbcAXtexSSWaXzOSfsdXDLhDHKPdm3Y8SNa58bb8nCwKKppwDcbJJLmts9Ooruiwc0FpvqCs1X8LNJL4zYE3I5LqSspo5RUnh8gryCcAJJJkJMy5YJbNNgVGwsEgAudb21PqrgNCSScIXR2yRKSShYkBi0V23CSShUujLYlTucb8gFTVDvK70KSSuCTzw
+                Warren Buffett is often considered the world's best investor of modern times. Buffett started investing at a young age, and was influenced by Benjamin Graham's value investing philosophy.
+                But the simple answer is that you can begin trading with any amount that you can spare because when you even invest Rs. 1000 you are better off than the person not investing in equities at all.
+            </p>
+
+            <div class="d-flex flex-row">
+                <button class="btn1  ml-5 ">Discover</button>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="d-flex flex-row mt-5">
+
+        <div class="card ml-5">
+
+            <h1>
+                <spam class="hd">Learn Investement & Trading </spam>with <spam class="hd1">Industry Experts</spam>
+            </h1>
+            <p>Take control your Financial Features withh and complehensive Financial Learning app.
+                Fromtake control of our FINNCIAL fEATURES learning all from stock investiment andmutual funds and dHUEzYajbcAXtexSSWaXzOSfsdXDLhDHKPdm3Y8SNa58bb8nCwKKppwDcbJJLmts9Ooruiwc0FpvqCs1X8LNJL4zYE3I5LqSspo5RUnh8gryCcAJJJkJMy5YJbNNgVGwsEgAudb21PqrgNCSScIXR2yRKSShYkBi0V23CSShUujLYlTucb8gFTVDvK70KSSuCTzw
+                Warren Buffett is often considered the world's best investor of modern times. Buffett started investing at a young age, and was influenced by Benjamin Graham's value investing philosophy.
+                But the simple answer is that you can begin trading with any amount that you can spare because when you even invest Rs. 1000 you are better off than the person not investing in equities at all.
+            </p>
+
+            <div class="d-flex flex-row">
+                <button class="btn1  ml-5 ">Invester</button>
+
+            </div>
+        </div>
+        <div class=" ml-5 ">
+            <img src="https://cdn.pixabay.com/photo/2016/10/10/22/38/business-1730089_960_720.jpg" class="image" />
+        </div>
+    </div>
+
+
+
+    <div class="crd1 mt-5 p-2 ml-2">
+        <h1 class="CFA text-center"> Financial course by CFA &N.I.S.M certificated Financial professionals</h1>
+
+    </div>
+    <div class="d-flex flex-row">
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+    </div>
+    <div class="mt-4 d-flex flex-row">
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+    </div>
+    <div class="mt-4 d-flex flex-row">
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+    </div>
+    <div class="mt-4 d-flex flex-row">
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ml-5">Explore More</button>
+        </div>
+        <div class="card2 p-2 mt-4 ml-5">
+            <div>
+                <h class="sth ml-4">Stock Investiment Live Master courses</h>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16">
+                    <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z" />
+                </svg>
+            </div>
+            <div class=" ml-4 d-flx flex-row">
+                <div class=" ml-4 p-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-building-fill-add" viewBox="0 0 16 16">
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0Z" />
+                        <path d="M2 1a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v7.256A4.493 4.493 0 0 0 12.5 8a4.493 4.493 0 0 0-3.59 1.787A.498.498 0 0 0 9 9.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .39-.187A4.476 4.476 0 0 0 8.027 12H6.5a.5.5 0 0 0-.5.5V16H3a1 1 0 0 1-1-1V1Zm2 1.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3 0v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5Zm3.5-.5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1ZM4 5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM7.5 5a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Zm2.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5ZM4.5 8a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1Z" />
+                    </svg>
+                    <a>15-04-2023</a>
+                </div>
+
+            </div>
+            <div class="p-2 ml-4">
+                <a class="ml-2">Mentors</a>
+                <a class="ml-4">Batch Progress</a>
+                <a class="ml-4">75% Seats Full</a>
+            </div>
+            <div class="p-2">
+                <a>😀</a><a>🙉</a><a>🥶</a><a>🔥</a>
+                <button class="bt"></button>
+
+            </div>
+            <button class="lg-bt mt-4 p-1 ">Explore More</button>
+        </div>
+    </div>
+    <div class="crd1 mt-5 p-1 ml-3">
+        <h1 class="CFA text-center">Explore a new horizon of Technology with TradeG</h1>
+    </div>
+    <p class="Exp mt-3">Separate the white fro the separate chaff with ours Screeners - handt for sorting<br>symbol both by the fundamental and fractional indicators.</p>
+    <div class="he d-flex flex-row">
+        <div class="card0">
+            <h1 class="leaf">
+                <img src="https://media.boingboing.net/wp-content/uploads/2018/04/newspaper.jpg" class=" mt-5 lfim ml-4 text-last" />
+            </h1>
+        </div>
+        <div class="card9 d-flex flex-row justify-content-center">
+
+            <ul class="unordered-circle-list1">
+                <li class="licolor">Equal Screener</li>
+                <li class="licolor">Forex Screener </li>
+                <li class="licolor">Crypto Screener</li>
+                <button class="btn-info wi ">Explore Now</button>
+            </ul>
+        </div>
+
+
+    </div>
+    <div class="cd ">
+        <img src="https://4.bp.blogspot.com/-YQ3AtsZwP24/WqigmRO-p7I/AAAAAAAAALM/S3-fJXXBICMfNyjyZXpCzutVqzzyFR1RgCLcBGAs/s1600/SQL%2BAccounting%2B2.jpg" class="mg ml-5" />
+    </div>
+
+
+
+
+
+
+
+    <div class="he d-flex flex-row mt-5">
+        <div class="card0">
+            <h1 class="leaf">
+                <img src="https://media.boingboing.net/wp-content/uploads/2018/04/newspaper.jpg" class=" mt-5 lfim ml-4 text-last" />
+            </h1>
+        </div>
+        <div class="card9">
+            <h1 class="grey">Be a Pro Trader! Use our Trading tools to enhance your traading skills.</h1>
+
+            <ul class="unordered-circle-list1">
+                <li class="licolor">Advance Career Converter</li>
+                <li class="licolor">Margin requirement calculation </li>
+                <li class="licolor">CFD Techanical Indicater</li>
+                <li class="licolor">Hertically Data Expert </li>
+                <li class="licolor">Forex Position Size Calculator</li>
+                <li class="licolor">Forex Profit Calculater </li>
+                <button class="btn-info wi ">Explore Now</button>
+            </ul>
+        </div>
+
+
+    </div>
+
+    <div class="cm  ml-5">
+        <div class="center mt-5">
+            <h class="oh">BENEFITS OF OUR ONLINE</h>
+            <p class="p">Finance School</p>
+            <div class="d-flex flex-row">
+                <div class=" cad  d-flex flex-column">
+                    <button class="cl p-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="whiteColor" class="bi bi-0-circle" viewBox="0 0 16 16">
+                            <path d="M7.988 12.158c-1.851 0-2.941-1.57-2.941-3.99V7.84c0-2.408 1.101-3.996 2.965-3.996 1.857 0 2.935 1.57 2.935 3.996v.328c0 2.408-1.101 3.99-2.959 3.99ZM8 4.951c-1.008 0-1.629 1.09-1.629 2.895v.31c0 1.81.627 2.895 1.629 2.895s1.623-1.09 1.623-2.895v-.31c0-1.8-.621-2.895-1.623-2.895Z" />
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Z" />
+                        </svg>
+                    </button>
+                    <h class="hs">Social interaction</h>
+                    <p>Our courses offer formus or other opportunity to with other
+                        student, allowing you to build a network of professional in your field</p>
+                </div>
+
+                <div class=" cad  d-flex flex-column ml-4 mt-3">
+                    <button class="cl p-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-0-circle" viewBox="0 0 16 16">
+                            <path d="M7.988 12.158c-1.851 0-2.941-1.57-2.941-3.99V7.84c0-2.408 1.101-3.996 2.965-3.996 1.857 0 2.935 1.57 2.935 3.996v.328c0 2.408-1.101 3.99-2.959 3.99ZM8 4.951c-1.008 0-1.629 1.09-1.629 2.895v.31c0 1.81.627 2.895 1.629 2.895s1.623-1.09 1.623-2.895v-.31c0-1.8-.621-2.895-1.623-2.895Z" />
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Z" />
+                        </svg>
+                    </button>
+                    <h class="hs">Social interaction</h>
+                    <p>Our courses offer formus or other opportunity to with other
+                        student, allowing you to build a network of professional in your field</p>
+                </div>
+                <div class=" cad  d-flex flex-column ml-4 mt-3">
+                    <button class="cl p-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-0-circle" viewBox="0 0 16 16">
+                            <path d="M7.988 12.158c-1.851 0-2.941-1.57-2.941-3.99V7.84c0-2.408 1.101-3.996 2.965-3.996 1.857 0 2.935 1.57 2.935 3.996v.328c0 2.408-1.101 3.99-2.959 3.99ZM8 4.951c-1.008 0-1.629 1.09-1.629 2.895v.31c0 1.81.627 2.895 1.629 2.895s1.623-1.09 1.623-2.895v-.31c0-1.8-.621-2.895-1.623-2.895Z" />
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Z" />
+                        </svg>
+                    </button>
+                    <h class="hs">Social interaction</h>
+                    <p>Our courses offer formus or other opportunity to with other
+                        student, allowing you to build a network of professional in your field</p>
+                </div>
+            </div>
+
+            <div class="d-flex flex-row">
+                <div class=" cad  d-flex flex-column mt-3">
+                    <button class="cl p-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-0-circle" viewBox="0 0 16 16">
+                            <path d="M7.988 12.158c-1.851 0-2.941-1.57-2.941-3.99V7.84c0-2.408 1.101-3.996 2.965-3.996 1.857 0 2.935 1.57 2.935 3.996v.328c0 2.408-1.101 3.99-2.959 3.99ZM8 4.951c-1.008 0-1.629 1.09-1.629 2.895v.31c0 1.81.627 2.895 1.629 2.895s1.623-1.09 1.623-2.895v-.31c0-1.8-.621-2.895-1.623-2.895Z" />
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Z" />
+                        </svg>
+                    </button>
+                    <h class="hs">Social interaction</h>
+                    <p>Our courses offer formus or other opportunity to with other
+                        student, allowing you to build a network of professional in your field</p>
+                </div>
+
+                <div class=" cad  d-flex flex-column mt-3 ml-4">
+                    <button class="cl p-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-0-circle" viewBox="0 0 16 16">
+                            <path d="M7.988 12.158c-1.851 0-2.941-1.57-2.941-3.99V7.84c0-2.408 1.101-3.996 2.965-3.996 1.857 0 2.935 1.57 2.935 3.996v.328c0 2.408-1.101 3.99-2.959 3.99ZM8 4.951c-1.008 0-1.629 1.09-1.629 2.895v.31c0 1.81.627 2.895 1.629 2.895s1.623-1.09 1.623-2.895v-.31c0-1.8-.621-2.895-1.623-2.895Z" />
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Z" />
+                        </svg>
+                    </button>
+                    <h class="hs">Social interaction</h>
+                    <p>Our courses offer formus or other opportunity to with other
+                        student, allowing you to build a network of professional in your field</p>
+                </div>
+                <div class=" cad  d-flex flex-column mt-3 ml-4">
+                    <button class="cl p-2">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-0-circle" viewBox="0 0 16 16">
+                            <path d="M7.988 12.158c-1.851 0-2.941-1.57-2.941-3.99V7.84c0-2.408 1.101-3.996 2.965-3.996 1.857 0 2.935 1.57 2.935 3.996v.328c0 2.408-1.101 3.99-2.959 3.99ZM8 4.951c-1.008 0-1.629 1.09-1.629 2.895v.31c0 1.81.627 2.895 1.629 2.895s1.623-1.09 1.623-2.895v-.31c0-1.8-.621-2.895-1.623-2.895Z" />
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Z" />
+                        </svg>
+                    </button>
+                    <h class="hs">Social interaction</h>
+                    <p>Our courses offer formus or other opportunity to with other
+                        student, allowing you to build a network of professional in your field</p>
+                </div>
+            </div>
+            <div class="mt-4">
+                <h class="th">Reasons why you shouuld learn<spam class="sm">Finances</spam>at<spam class="sm">TRADeg Financial</spam>
+                </h>
+                <div class=" d-flex flex-row mt-4">
+                    <div class=" LD d-flex flex-row">
+                        <h1 class="cl">1</h1>
+                        <p class="ml-2">NISN & CFA CERTIFIED EDUCATORS</p>
+                    </div>
+                    <div class=" LD d-flex flex-row">
+                        <h1 class="cl1 ml-2">2</h1>
+                        <p class="ml-2 mt-3">NISN & CFA CERTIFIED EDUCATORS</p>
+                    </div>
+                    <div class=" LD d-flex flex-row">
+                        <h1 class="cl2 ml-2">3</h1>
+                        <p class="ml-2 mt-3">NISN & CFA CERTIFIED EDUCATORS</p>
+                    </div>
+                </div>
+
+                <div class=" d-flex flex-row mt-1">
+                    <div class=" LD d-flex flex-row">
+                        <h1 class="cl3">4</h1>
+                        <p class="ml-2">NISN & CFA CERTIFIED EDUCATORS</p>
+                    </div>
+                    <div class=" LD d-flex flex-row">
+                        <h1 class="cl4 ml-2">5</h1>
+                        <p class="ml-2 mt-3">NISN & CFA CERTIFIED EDUCATORS</p>
+                    </div>
+                    <div class=" LD d-flex flex-row">
+                        <h1 class="cl5 ml-2">6</h1>
+                        <p class="ml-2 mt-3">NISN & CFA CERTIFIED EDUCATORS</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
